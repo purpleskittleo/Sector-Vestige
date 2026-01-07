@@ -6,9 +6,11 @@
 #
 # SPDX-License-Identifier: AGPL-3.0-or-later
 
-- files: ["IA_activation_41s.ogg",
-          "IA_activation_NIGHTMARE_19s.ogg",
-          "SPIDER_introduction_31s.ogg"]
+- files: ["IA_start_41s.ogg",
+          "IA_start_NIGHTMARE_19s.ogg",
+          "MM_start_36s.ogg",
+          "NJA_start_31.ogg",
+          "OBSS_start_2m21s.ogg"]
   license: "CC-BY-4.0"
   copyright: "Created by purpleskittleo"
-  source: "https://www.youtube.com/@purpleskittleo"
+  source: "https://discord.com/users/1019632566220890162"

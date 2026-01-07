@@ -1,0 +1,22 @@
+# SPDX-FileCopyrightText: 2025 Sector-Vestige contributors
+# SPDX-FileCopyrightText: 2025 Sector Vestige contributors (modifications)
+# SPDX-FileCopyrightText: 2025 ReboundQ3 <ReboundQ3@gmail.com>
+# SPDX-FileCopyrightText: 2025 purpleskittleo <thenewredgd@gmail.com>
+#
+# SPDX-License-Identifier: AGPL-3.0-or-later
+
+- files: ["heartbeat_30bpm_2m.ogg",
+          "heartbeat_30bpm_15s.ogg",
+          "heartbeat_60bpm_2m.ogg",
+          "heartbeat_60bpm_15s.ogg",
+          "heartbeat_90bpm_2m.ogg",
+          "heartbeat_90bpm_15s.ogg",
+          "heartbeat_130bpm_2m.ogg",
+          "heartbeat_130bpm_15s.ogg",
+          "heartbeat_160bpm_2m.ogg",
+          "heartbeat_160bpm_15s.ogg",
+          "heartbeat_190bpm_2m.ogg",
+          "heartbeat_190bpm_15s.ogg"]
+  license: "CC-BY-4.0"
+  copyright: "Created by purpleskittleo"
+  source: "https://discord.com/users/1019632566220890162"
